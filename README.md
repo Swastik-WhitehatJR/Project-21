@@ -1,4 +1,4 @@
-# Project-21
+# ABOUT THE PROJECT
 This contains the files that were edited and coded in the Project 21 in WhitehatJR Pro Course. It has some sprites and it has some logics of to check that is a sprite is touching the other or not and also to bounce them if they are touching each other. It is coded in javascript. To change the logic, edit the code in the file 'sketch.js' file and the 'mylib.js' file. 'mylib.js' is a library file made by me for the isTouching() function logics, the bounceOff() function logics and the bounce() function logics.
 
 # ABOUT ME
